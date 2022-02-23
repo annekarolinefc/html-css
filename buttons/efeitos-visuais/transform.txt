@@ -1,0 +1,1 @@
+Permite rotacionar, esticar, alterar o tamanaho, perspectiva entre outos.

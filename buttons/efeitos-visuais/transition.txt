@@ -1,0 +1,1 @@
+Permite aplicar mudanças em valores de forma suave, e dentro de um determinado tempo.

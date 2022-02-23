@@ -1,0 +1,7 @@
+As funções easing especificam a tava de alteração desses parametros ao longo do tempo.
+    ex: cubic-bezier(.55, 0, .1, 1);
+
+A variação de aceleração é alterada entre os valores de 0 e 1;
+No exemplo, a animação inicia mais devagar e vai acelereando ao longo do tempo;
+
+SITE: https://easings.net
